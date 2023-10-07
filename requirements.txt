@@ -1,0 +1,8 @@
+openpyxl
+numpy
+matplotlib
+urllib
+prettytable
+dotenv
+ssl
+smtplib
